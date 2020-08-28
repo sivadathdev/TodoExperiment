@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TodoExperiment</string>
+    <string name="Task_name">Task</string>
+    <string name="Task_Overview">OverView: </string>
+    <string name="Task_description">Description</string>
+    <string name="category_priority">Priority</string>
+    <string name="category_date">Date</string>
+    <string name="hint_date">dd/mm/yyyy</string>
+    <string name="action_save" />
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="empty_view_title_text">It\'s a bit lonely in here...</string>
+    <string name="empty_view_subtitle_text">Get Started By Adding a New Task</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="editor_insert_task_failed" >Failed to add new Task</string>
+    <string name="editor_insert_task_successful">Successfully Added new Task</string>
+    <string name="editor_update_task_failed" >Failed to update the Task</string>
+    <string name="editor_update_task_successful" >Successfully Updated the Task</string>
+    <string name="action_set_alarm">Set Reminder</string>
+
+
+    <string name="editor_delete_todo_successful">Task deleted</string>
+
+    <!-- Toast message in editor when current pet has failed to be deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_todo_failed">Error with deleting Task</string>
+
+    <!-- Dialog message to ask the user to confirm deleting the current pet [CHAR LIMIT=NONE] -->
+    <string name="delete_dialog_msg">Delete this Task?</string>
+
+    <!-- Dialog button text for the option to confirm deleting the current pet [CHAR LIMIT=20] -->
+    <string name="delete">Delete</string>
+
+    <!-- Dialog button text for the option to cancel deletion of the current pet [CHAR LIMIT=20] -->
+    <string name="cancel">Cancel</string>
+
+    <string name="editor_delete_all_todo">Delete all Tasks</string>
+</resources>
